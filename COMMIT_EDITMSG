@@ -1,0 +1,47 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	new file:   PassGenrator/.gitignore
+#	new file:   PassGenrator/README.md
+#	new file:   PassGenrator/app.json
+#	new file:   PassGenrator/app/(tabs)/_layout.tsx
+#	new file:   PassGenrator/app/(tabs)/explore.tsx
+#	new file:   PassGenrator/app/(tabs)/index.tsx
+#	new file:   PassGenrator/app/+not-found.tsx
+#	new file:   PassGenrator/app/_layout.tsx
+#	new file:   PassGenrator/assets/fonts/SpaceMono-Regular.ttf
+#	new file:   PassGenrator/assets/images/adaptive-icon.png
+#	new file:   PassGenrator/assets/images/favicon.png
+#	new file:   PassGenrator/assets/images/icon.png
+#	new file:   PassGenrator/assets/images/partial-react-logo.png
+#	new file:   PassGenrator/assets/images/react-logo.png
+#	new file:   PassGenrator/assets/images/react-logo@2x.png
+#	new file:   PassGenrator/assets/images/react-logo@3x.png
+#	new file:   PassGenrator/assets/images/splash-icon.png
+#	new file:   PassGenrator/components/Collapsible.tsx
+#	new file:   PassGenrator/components/ExternalLink.tsx
+#	new file:   PassGenrator/components/HapticTab.tsx
+#	new file:   PassGenrator/components/HelloWave.tsx
+#	new file:   PassGenrator/components/ParallaxScrollView.tsx
+#	new file:   PassGenrator/components/ThemedText.tsx
+#	new file:   PassGenrator/components/ThemedView.tsx
+#	new file:   PassGenrator/components/__tests__/ThemedText-test.tsx
+#	new file:   PassGenrator/components/__tests__/__snapshots__/ThemedText-test.tsx.snap
+#	new file:   PassGenrator/components/ui/IconSymbol.ios.tsx
+#	new file:   PassGenrator/components/ui/IconSymbol.tsx
+#	new file:   PassGenrator/components/ui/TabBarBackground.ios.tsx
+#	new file:   PassGenrator/components/ui/TabBarBackground.tsx
+#	new file:   PassGenrator/constants/Colors.ts
+#	new file:   PassGenrator/hooks/useColorScheme.ts
+#	new file:   PassGenrator/hooks/useColorScheme.web.ts
+#	new file:   PassGenrator/hooks/useThemeColor.ts
+#	new file:   PassGenrator/package-lock.json
+#	new file:   PassGenrator/package.json
+#	new file:   PassGenrator/scripts/reset-project.js
+#	new file:   PassGenrator/tsconfig.json
+#
